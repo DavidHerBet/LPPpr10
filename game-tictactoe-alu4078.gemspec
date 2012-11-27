@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["David Hernández Bethencourt"]
   s.email       = ["alu0100536881@ull.edu.es"]
   s.homepage    = "https://github.com/DavidHerBet/LPPpr10.git"
-  s.summary     = %q{Gem which implements tictactoe game}
-  s.description = %q{Gem which implements tictactoe game}
+  s.summary     = %q{Gem which implements tictactoe game with different kinds of players}
+  s.description = %q{Gem which implements tictactoe game with different kinds of players}
 
   s.rubyforge_project = "game-tictactoe-alu4078"
 
