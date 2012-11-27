@@ -1,4 +1,4 @@
-# tictactoe_game.rb
+#!/usr/bin/env ruby
 
 require "game-tictactoe-alu4078"
 

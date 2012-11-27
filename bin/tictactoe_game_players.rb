@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require "game-tictactoe-alu4078"
 
 if __FILE__ == $0
