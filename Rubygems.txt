@@ -1,0 +1,5 @@
+Enlace a la gema en rubygems:
+  -https://rubygems.org/gems/game-tictactoe-alu4078
+
+Para instalar la gema en tu ordenador:
+$ sudo gem install game-tictactoe-alu4078
