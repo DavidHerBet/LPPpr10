@@ -1,4 +1,5 @@
 require "game-tictactoe-alu4078"
+require "rspec"
 
 describe TicTacToe::SmartPlayer do
 	before :each do
